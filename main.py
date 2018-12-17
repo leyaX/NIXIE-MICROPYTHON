@@ -1,8 +1,3 @@
-/* 
-
-  ESSAI NIXIE MICROPYTHON - ya - Déc_2018 
-
-*/
 
 import ntptime
 import esp
